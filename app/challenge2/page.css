@@ -1,0 +1,11 @@
+.inputX{
+    background-color: #dfdfdf;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: black;
+    width: 300px;
+}
+
+.inputX::placeholder { /* Most modern browsers support this now. */
+    color:    #626262;
+}
