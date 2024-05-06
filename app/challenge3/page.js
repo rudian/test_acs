@@ -31,7 +31,7 @@ export default function Challenge3() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      Challenge 3
+      Challenge 3 (Please checkout the result from the console)
     </main>
   );
 }
